@@ -11,6 +11,7 @@ Each writeup includes the tools used, my methodology, and key takeaways.
 | Room | Difficulty | Category | Writeup |
 |------|-----------|----------|---------|
 | Wise Guy | Easy | Cryptography / Enumeration | [View](writeups/wise-guy.md) |
+| Operation Slither | Easy | OSINT | [View](writeups/operation-slither.md) |
 
 ---
 
@@ -19,6 +20,9 @@ Each writeup includes the tools used, my methodology, and key takeaways.
 - Network enumeration with Netcat
 - XOR cryptanalysis (known-plaintext attack)
 - CyberChef for encoding/decoding
+- OSINT investigation and cross-platform username pivoting
+- Social media reconnaissance
+- Git/commit history analysis
 
 ---
 
